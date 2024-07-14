@@ -1,4 +1,4 @@
-
+von Samir Sadikovic
 
 In this project, we analyzed, cleaned, and visualized datasets from WeRateDogs. We went through the essential steps of data wrangling, from gathering and assessing data to cleaning and final analysis. Here is a summary of our key steps and findings:
 
